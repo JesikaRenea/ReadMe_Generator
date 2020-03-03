@@ -1,31 +1,31 @@
 
   # Project Title
-  t
+  readme
   
   ## Description 
-  license
+  generator
   
   ## User Story
   
   As a:
-   f 
+   1 
   
   I can:
-   f
+   2
    
   So that I can: 
-   f
+   3
 
   ---
   
   
   ## Table of Contents
   
-  * [Installation] 
+  * [Installation] npm i
   
   * [Usage] n/a
   
-  * [License] MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  * [License] GPL 3.0       [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   
   
   ---
