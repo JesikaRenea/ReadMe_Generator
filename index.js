@@ -36,7 +36,8 @@ function promptUser() {
         {
             type: "input",
             name: "usage",
-            message: "Enter Project Usage:"
+            message: "Enter Project Usage:",
+            default: "n/a"
         },
         {
             type: "list",
@@ -47,17 +48,17 @@ function promptUser() {
         {
             type: "input",
             name: "role",
-            message: "User Story: Enter Role of User"
+            message: "User Story: As A (Enter Role of User):"
         },
         {
             type: "input",
             name: "capabilities",
-            message: "User Story: Enter Project Capabilties"
+            message: "User Story: I want to (Enter Project Capabilties):"
         },
         {
             type: "input",
             name: "benefits",
-            message: "User Story: Enter Project Benefits"
+            message: "User Story: So that I can (Enter Project Benefits):"
         },
     ])
 };
