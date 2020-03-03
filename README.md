@@ -1,31 +1,31 @@
 
   # Project Title
-  Title
+  t
   
   ## Description 
-  Desc
+  license
   
   ## User Story
   
   As a:
-   test 
+   f 
   
   I can:
-   test
+   f
    
   So that I can: 
-   test
+   f
 
   ---
   
   
   ## Table of Contents
   
-  * [Installation] npm i
+  * [Installation] 
   
   * [Usage] n/a
   
-  * [License] GPL 3.0
+  * [License] MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   
   ---
