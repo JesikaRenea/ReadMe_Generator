@@ -11,7 +11,7 @@ function generateMarkdown(answers) {
   As a:
    ${answers.role} 
   
-  I can:
+  I want to:
    ${answers.capabilities}
    
   So that I can: 
@@ -39,16 +39,24 @@ function generateMarkdown(answers) {
   ## Tests
   ${answers.tests}
 
+  ## Links 
+
+  [Visit Portfolio Page](https://${answers.github}.github.io/)
+
+  [Github Repo: ${answers.title}](https://insertURL)
+
+  [Deployed Heroku App](https://inserturl)
 
   ## For Questions Contact:
 
+  ${answers.github}:
+
+
+  [![${answers.github}](${answers.avatar_url})](${answers.html_url})
+
   [${answers.github}](${answers.html_url})
-
-
-  ![${answers.github}](${answers.avatar_url})
   
-  
-  ---
+    ---
   `;
 }
 
