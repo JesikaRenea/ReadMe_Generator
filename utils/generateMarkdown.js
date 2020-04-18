@@ -35,6 +35,13 @@ function generateMarkdown(answers) {
     
   ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
   
+
+  ## Screenshots
+![index.html](/images/index_ss.png)
+![portfolio.html](/images/portfolio_ss.png)
+![contact.html](/images/contact_ss.png)
+
+
     
   ## Tests
   ${answers.tests}
